@@ -204,4 +204,3 @@ This project demonstrates how SVMs can be effectively used for image classificat
    python svm_digits.py
    ```
 
----**strong GitHub description + tags**
